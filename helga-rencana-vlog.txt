@@ -3,7 +3,9 @@ RENCANA VLOG HELGA
 -Makanan
   *Mie samyang
   *Indomie goreng
--Draw mylife
+    ^sedapp
+    ^sarimi
 -Tutorial hijab
+  *hijab square
 -Unboxing
 -Diary
